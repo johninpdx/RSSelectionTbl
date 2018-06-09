@@ -1,0 +1,11 @@
+Package: RSSelectionTbl
+Type: Package
+Title: Calculates and graphs selection & influence tables
+Version: 0.1.0
+Author: Tom Snijders
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
